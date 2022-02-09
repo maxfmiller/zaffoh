@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zaffoh
-- 👀 I’m interested in all thing Python!!!
-- 🌱 I’m currently learning Python, R in the near future
+- 👀 I’m interested in all things Python!!!
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate: not ready for anything!
 - 📫 How to reach me: not ready for anything!
 
